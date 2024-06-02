@@ -1,0 +1,12 @@
+Date:2080/11/11
+
+LifeCycle of Process/thread
+
+
+
+
+
+
+Thread
+- Thread is a lightweight process.
+- It is capable of running in parallel with other threads of a same process(Concurrently)
